@@ -1,0 +1,7 @@
+dist/
+.env
+.env.*
+!.env.example
+*.local.json
+.DS_Store
+Thumbs.db
